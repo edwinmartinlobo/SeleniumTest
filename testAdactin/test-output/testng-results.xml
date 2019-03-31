@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-03-23T17:41:02Z" name="Default suite" finished-at="2019-03-23T17:41:13Z" duration-ms="10508">
+  <suite started-at="2019-03-31T00:47:17Z" name="Default suite" finished-at="2019-03-31T00:47:45Z" duration-ms="27524">
     <groups>
     </groups>
-    <test started-at="2019-03-23T17:41:02Z" name="Default test" finished-at="2019-03-23T17:41:13Z" duration-ms="10508">
+    <test started-at="2019-03-31T00:47:17Z" name="Default test" finished-at="2019-03-31T00:47:45Z" duration-ms="27524">
       <class name="testAdactin.testAdactin">
-        <test-method signature="openDriver()[pri:0, instance:testAdactin.testAdactin@61322f9d]" started-at="2019-03-23T17:41:02Z" name="openDriver" finished-at="2019-03-23T17:41:13Z" duration-ms="10479" status="PASS">
+        <test-method signature="openDriver()[pri:0, instance:testAdactin.testAdactin@61322f9d]" started-at="2019-03-31T00:47:17Z" name="openDriver" finished-at="2019-03-31T00:47:45Z" duration-ms="27479" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openDriver -->
